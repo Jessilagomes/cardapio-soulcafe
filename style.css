@@ -1,0 +1,55 @@
+body{
+    max-width: 600px;
+    color: #fff;
+    margin: auto;
+    padding: 10px;
+}
+
+h1{
+    color: rgb(88, 55, 21);
+    font-family:Arial, Helvetica, sans-serif ;
+    }
+
+h2{
+    background-color: rgb(88, 55, 21);
+    padding: 10px ;
+    color: #fff;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+
+h3{
+    background-color: rgb(88, 55, 21);
+    padding: 10px ;
+    color: #fff;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+
+h4{
+    color: rgb(165, 118, 71);}
+
+r1{color: rgb(165, 118, 71);}
+
+.centro{
+    text-align: center;
+}
+
+.centralizar{
+    text-align: center;
+}
+
+.maps iframe{
+width: 100%;box-shadow: 0 0 3px #4a3e34 ;
+}
+
+ol{
+    line-height: 30px;
+}
+.btn-instagran{
+    background-color: rgb(165, 118, 71);
+    color: #fff;
+    padding: 15px; 25px
+    display: inline-block;
+    border-radius: 10px
+    font-size: 16px
+
+}
